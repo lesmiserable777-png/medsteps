@@ -1,0 +1,72 @@
+{
+  "method": "Core business source only; physical lines include comments and compact multi-statement lines. Not personal handwritten lines.",
+  "physicalLines": 451,
+  "nonemptyLines": 426,
+  "files": [
+    {
+      "file": "app/review-app.tsx",
+      "physicalLines": 38,
+      "nonemptyLines": 36
+    },
+    {
+      "file": "app/unlock-app.tsx",
+      "physicalLines": 18,
+      "nonemptyLines": 17
+    },
+    {
+      "file": "app/knowledge-inventory.tsx",
+      "physicalLines": 145,
+      "nonemptyLines": 135
+    },
+    {
+      "file": "app/layout.tsx",
+      "physicalLines": 4,
+      "nonemptyLines": 4
+    },
+    {
+      "file": "app/page.tsx",
+      "physicalLines": 12,
+      "nonemptyLines": 12
+    },
+    {
+      "file": "app/globals.css",
+      "physicalLines": 6,
+      "nonemptyLines": 6
+    },
+    {
+      "file": "app/knowledge-inventory.module.css",
+      "physicalLines": 2,
+      "nonemptyLines": 2
+    },
+    {
+      "file": "app/api/[action]/route.ts",
+      "physicalLines": 38,
+      "nonemptyLines": 37
+    },
+    {
+      "file": "lib/access.ts",
+      "physicalLines": 71,
+      "nonemptyLines": 61
+    },
+    {
+      "file": "lib/initial-import.ts",
+      "physicalLines": 12,
+      "nonemptyLines": 11
+    },
+    {
+      "file": "lib/review.ts",
+      "physicalLines": 18,
+      "nonemptyLines": 18
+    },
+    {
+      "file": "lib/sources.ts",
+      "physicalLines": 31,
+      "nonemptyLines": 31
+    },
+    {
+      "file": "lib/store.ts",
+      "physicalLines": 56,
+      "nonemptyLines": 56
+    }
+  ]
+}

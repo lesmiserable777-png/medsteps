@@ -1,0 +1,4 @@
+import type {Metadata} from 'next';
+import './globals.css';
+export const metadata:Metadata={title:'医步 · 每日复习',description:'一次一小步，主动回忆医学知识。',icons:{icon:'/favicon.svg'}};
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="zh-CN"><body>{children}</body></html>}

@@ -1,0 +1,41 @@
+{
+  "syncId": "public-demo-initial-v1",
+  "cards": [
+    {
+      "id": "demo-recall-001",
+      "title": "演示：先回忆，再核对",
+      "course": "公开演示数据",
+      "chapter": "使用流程",
+      "priority": 1,
+      "context": "这张卡片仅用于演示软件流程，不含真实课件或个人学习记录。",
+      "steps": [
+        {
+          "prompt": "这个演示中的独立回忆应放在什么时候？",
+          "zh": "先尝试自己回答，再查看参考答案。",
+          "options": [
+            "查看参考答案之前",
+            "抄写参考答案之后"
+          ],
+          "answer": 0,
+          "hint": "想想怎样才能区分自己记得的内容和刚刚看到的内容。",
+          "reason": "本示例先记录自己的回忆，再对照参考内容。"
+        }
+      ],
+      "recall": "用一句话说出本示例的操作顺序。",
+      "recallAnswer": "先独立回忆，再查看参考答案并评价掌握情况。",
+      "explanation": "这是人为编写的软件演示卡片。",
+      "source": {
+        "file": "docs/demo-source.md",
+        "pages": [
+          1
+        ],
+        "excerpt": "先独立回忆，再核对参考内容，最后评价掌握情况。",
+        "images": [],
+        "verified": true
+      },
+      "notes": "公开示例；不代表真实学习记录。",
+      "active": true
+    }
+  ],
+  "learning": []
+}
